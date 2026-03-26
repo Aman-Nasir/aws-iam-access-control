@@ -26,7 +26,7 @@ This project demonstrates how to implement security in AWS using IAM (Identity a
 ![Users](screenshots/users.png)
 
 ### User Details
-![User Details](screenshots/user-details.png)
+![User Details](screenshots/user_details.png)
 
 ### Permissions
 ![Permissions](screenshots/permissions.png)
